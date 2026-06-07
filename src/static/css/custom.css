@@ -1,0 +1,7 @@
+/* 
+  src/static/css/custom.css
+  ──────────────────────────
+  Place any additional CSS overrides here.
+  The main styles live inline in src/templates/index.html.
+  This file is served at /static/css/custom.css by FastAPI StaticFiles.
+*/
